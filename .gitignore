@@ -1,0 +1,11 @@
+app.env
+.env
+*.env
+myvenv/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.gradio/
+tmp/
+*.pdf
